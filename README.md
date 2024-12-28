@@ -1,6 +1,6 @@
 ## Index
 
-- Sort Algorithm
+- [Sort Algorithm](https://github.com/Ometeor-Zheero-OMZ/rust_algorithm/tree/main/01.sort)
   - [Bogo Sort](https://github.com/Ometeor-Zheero-OMZ/rust_algorithm/tree/main/01.sort/bogo)
   - [Bubble Sort](https://github.com/Ometeor-Zheero-OMZ/rust_algorithm/tree/main/01.sort/bubble)
   - [Cocktail Sort](https://github.com/Ometeor-Zheero-OMZ/rust_algorithm/tree/main/01.sort/cocktail)
